@@ -1,0 +1,45 @@
+/* CSS Document for someCss.html */
+h1 {
+    text-align: center;
+    background-color:rgb(218, 69, 180);
+    color: white
+}
+
+.p1 {
+    background-color:LightGray;
+    text-align: center
+}
+
+.p2 {
+    background-color:lightblue;
+    text-align: center;
+    font: 23px Arial, sans-serif;
+}
+
+#frame-float {
+    float: right
+
+}
+
+.frame {
+    width: 400px;
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 25px;
+}
+
+#large-frame {
+    width: 60%;
+    overflow: hidden;
+}
+
+.div-custom {
+    position: relative;
+    padding-left: 10%;
+    padding-bottom: 10%;
+    padding-right: 10%;
+    height: 300px;
+    overflow: hidden;
+}
